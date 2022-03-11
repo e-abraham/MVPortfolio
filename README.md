@@ -1,2 +1,2 @@
-# MVPortfolio
-An assortment of projects, experiences, and learnings throughout my MultiVerse SWE Apprenticeship
+# MultiVerse Portfolio
+An assortment of my projects, experiences, and learnings throughout my MultiVerse SWE Apprenticeship
